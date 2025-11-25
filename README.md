@@ -1,1 +1,1 @@
-# Mani-s-Hostel-Management-API
+# Hostel-Management-API
